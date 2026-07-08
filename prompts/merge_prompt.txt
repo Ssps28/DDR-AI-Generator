@@ -1,0 +1,45 @@
+You are preparing the FINAL Detailed Diagnostic Report.
+
+You will receive
+
+Inspection JSON
+
+and
+
+Thermal JSON.
+
+Combine both.
+
+Rules
+
+Remove duplicate observations.
+
+Mention conflicts.
+
+Assign severity.
+
+Explain severity.
+
+Recommend corrective action.
+
+Mention missing information.
+
+Return ONLY JSON.
+
+{
+  "property_issue_summary":"",
+  "area_wise_observations":[
+      {
+          "area":"",
+          "observation":"",
+          "thermal_finding":"",
+          "root_cause":"",
+          "severity":"",
+          "severity_reason":"",
+          "recommended_action":"",
+          "image_reference":[]
+      }
+  ],
+  "additional_notes":"",
+  "missing_information":[]
+}

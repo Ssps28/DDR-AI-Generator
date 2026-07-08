@@ -1,0 +1,283 @@
+{
+    "document_type": "Thermal Report",
+    "property_summary": "Not Available",
+    "observations": [
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 28.8 °C and a coldspot of 23.4 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 28.8 °C, Coldspot: 23.4 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02380X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 27.4 °C and a coldspot of 22.4 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 27.4 °C, Coldspot: 22.4 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02386X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 27 °C and a coldspot of 22 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 27 °C, Coldspot: 22 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02395X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.7 °C and a coldspot of 20.7 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.7 °C, Coldspot: 20.7 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02402X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.5 °C and a coldspot of 20.5 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.5 °C, Coldspot: 20.5 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02403X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.8 °C and a coldspot of 20.8 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.8 °C, Coldspot: 20.8 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02404X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26.2 °C and a coldspot of 21.2 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26.2 °C, Coldspot: 21.2 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02405X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26.5 °C and a coldspot of 21.5 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26.5 °C, Coldspot: 21.5 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02406X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.8 °C and a coldspot of 20.8 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.8 °C, Coldspot: 20.8 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02392X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.9 °C and a coldspot of 20.9 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.9 °C, Coldspot: 20.9 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02393X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26 °C and a coldspot of 21 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26 °C, Coldspot: 21 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02394X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26.1 °C and a coldspot of 21.1 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26.1 °C, Coldspot: 21.1 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02396X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26.3 °C and a coldspot of 21.3 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26.3 °C, Coldspot: 21.3 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02397X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.6 °C and a coldspot of 20.6 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.6 °C, Coldspot: 20.6 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02398X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26.5 °C and a coldspot of 21.5 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26.5 °C, Coldspot: 21.5 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02399X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.2 °C and a coldspot of 20.2 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.2 °C, Coldspot: 20.2 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02400X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.6 °C and a coldspot of 20.6 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.6 °C, Coldspot: 20.6 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02401X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 27 °C and a coldspot of 22 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 27 °C, Coldspot: 22 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02381X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26.7 °C and a coldspot of 21.7 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26.7 °C, Coldspot: 21.7 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02382X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26.5 °C and a coldspot of 21.5 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26.5 °C, Coldspot: 21.5 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02383X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 27.3 °C and a coldspot of 22.3 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 27.3 °C, Coldspot: 22.3 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02384X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 27.3 °C and a coldspot of 22.3 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 27.3 °C, Coldspot: 22.3 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02385X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.2 °C and a coldspot of 20.2 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.2 °C, Coldspot: 20.2 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02387X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.1 °C and a coldspot of 20.1 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.1 °C, Coldspot: 20.1 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02388X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.9 °C and a coldspot of 20.9 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.9 °C, Coldspot: 20.9 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02389X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26.9 °C and a coldspot of 21.9 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26.9 °C, Coldspot: 21.9 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02390X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 25.6 °C and a coldspot of 20.6 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 25.6 °C, Coldspot: 20.6 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02391X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26.9 °C and a coldspot of 21.9 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26.9 °C, Coldspot: 21.9 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02377X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 26.4 °C and a coldspot of 21.4 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 26.4 °C, Coldspot: 21.4 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02378X.JPG"
+            ]
+        },
+        {
+            "area": "Not Available",
+            "observation": "Thermal image shows a hotspot of 27.8 °C and a coldspot of 22.8 °C. Emissivity was set to 0.94 and reflected temperature was 23 °C.",
+            "thermal_reading": "Hotspot: 27.8 °C, Coldspot: 22.8 °C",
+            "possible_issue": "Not Available",
+            "images": [
+                "RB02379X.JPG"
+            ]
+        }
+    ],
+    "notes": "Not Available",
+    "missing_information": [
+        "Property summary",
+        "Area for each observation",
+        "Possible issue for each observation",
+        "Recommendations"
+    ]
+}

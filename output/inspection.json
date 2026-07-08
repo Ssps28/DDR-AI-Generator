@@ -1,0 +1,134 @@
+{
+    "document_type": "Inspection Report",
+    "property_summary": "Floors: 11, Previous Structural audit done: No, Previous Repair work done: No, Inspection Date and Time: 27.09.2022 14:28 IST, Inspected By: Krushna & Mahesh, Property Type: Flat",
+    "observations": [
+        {
+            "area": "Hall of Flat No. 103 and Common Bathroom of Flat No. 103",
+            "observation": "Observed dampness at the skirting level of Hall of Flat No. 103. Additionally, gaps were observed between the tile joints of Common Bathroom of Flat No. 103, potentially indicating tile hollowness.",
+            "thermal_reading": "Not Available",
+            "possible_issue": "Plumbing issues, damaged Nahani trap/brickbat coba, or tile joint issues originating from the Common Bathroom.",
+            "images": [
+                "Photo 1",
+                "Photo 2",
+                "Photo 3",
+                "Photo 4",
+                "Photo 5",
+                "Photo 6",
+                "Photo 7",
+                "Photo 8",
+                "Photo 9",
+                "Photo 10",
+                "Photo 11"
+            ]
+        },
+        {
+            "area": "Common Bedroom of Flat No. 103 and Common Bathroom of Flat No. 103",
+            "observation": "Observed dampness at the skirting level of the Common Bedroom of Flat No. 103. Additionally, gaps were observed between the tile joints of Common Bathroom of Flat No. 103, potentially indicating tile hollowness.",
+            "thermal_reading": "Not Available",
+            "possible_issue": "Plumbing issues, damaged Nahani trap/brickbat coba, or tile joint issues originating from the Common Bathroom.",
+            "images": [
+                "Photo 12",
+                "Photo 13",
+                "Photo 14",
+                "Photo 15",
+                "Photo 16",
+                "Photo 17",
+                "Photo 18",
+                "Photo 19"
+            ]
+        },
+        {
+            "area": "Master Bedroom of Flat No. 103 and Master Bedroom Bathroom of Flat No. 103",
+            "observation": "Observed dampness at the skirting level of Master Bedroom of Flat No. 103. Additionally, gaps were observed between the tile joints of Master Bedroom Bathroom of Flat No. 103, potentially indicating tile hollowness.",
+            "thermal_reading": "Not Available",
+            "possible_issue": "Plumbing issues or tile joint issues originating from the Master Bedroom Bathroom.",
+            "images": [
+                "Photo 20",
+                "Photo 21",
+                "Photo 22",
+                "Photo 23",
+                "Photo 24",
+                "Photo 25",
+                "Photo 26",
+                "Photo 27",
+                "Photo 28",
+                "Photo 29",
+                "Photo 30"
+            ]
+        },
+        {
+            "area": "Kitchen of Flat No. 103 and Master Bedroom Bathroom of Flat No. 103",
+            "observation": "Observed dampness at the skirting level of Kitchen of Flat No. 103. Additionally, gaps were observed between the tile joints of Master Bedroom Bathroom of Flat No. 103.",
+            "thermal_reading": "Not Available",
+            "possible_issue": "Plumbing issues or tile joint issues originating from the Master Bedroom Bathroom, affecting the adjacent Kitchen.",
+            "images": [
+                "Photo 31",
+                "Photo 32",
+                "Photo 33",
+                "Photo 34",
+                "Photo 35",
+                "Photo 36",
+                "Photo 37"
+            ]
+        },
+        {
+            "area": "Master Bedroom wall of Flat No. 103 and External wall near Master Bedroom",
+            "observation": "Observed dampness & efflorescence on the wall surface of Master Bedroom of Flat No. 103. Cracks were also observed on the External wall of the building near the Master Bedroom, along with a duct issue.",
+            "thermal_reading": "Not Available",
+            "possible_issue": "External wall cracks, duct leakage, or compromised external plumbing causing dampness.",
+            "images": [
+                "Photo 38",
+                "Photo 39",
+                "Photo 40",
+                "Photo 41",
+                "Photo 42",
+                "Photo 43",
+                "Photo 44",
+                "Photo 45",
+                "Photo 46",
+                "Photo 47",
+                "Photo 48"
+            ]
+        },
+        {
+            "area": "Parking ceiling below Flat No. 103, originating from Common Bathroom of Flat No. 103",
+            "observation": "Observed leakage at the Parking ceiling below Flat No. 103. This is associated with plumbing issues and gaps between the tile joints in the Common Bathroom of Flat No. 103.",
+            "thermal_reading": "Not Available",
+            "possible_issue": "Plumbing leakage or tile joint issues from the Common Bathroom of Flat No. 103.",
+            "images": [
+                "Photo 49",
+                "Photo 50",
+                "Photo 51",
+                "Photo 52",
+                "Photo 53",
+                "Photo 54",
+                "Photo 55",
+                "Photo 56",
+                "Photo 57"
+            ]
+        },
+        {
+            "area": "Common Bathroom Ceiling of Flat No. 103, affected by Flat No. 203",
+            "observation": "Observed mild dampness at the ceiling of Common Bathroom of Flat No. 103. This is related to open tile joints and outlet leakage in the Common & Master Bedroom Bathrooms of Flat No. 203 (the flat above).",
+            "thermal_reading": "Not Available",
+            "possible_issue": "Leakage from open tile joints or outlet leakage in the bathrooms of the flat above (Flat No. 203).",
+            "images": [
+                "Photo 58",
+                "Photo 59",
+                "Photo 60",
+                "Photo 61",
+                "Photo 62",
+                "Photo 63",
+                "Photo 64"
+            ]
+        }
+    ],
+    "notes": "Inspection Score: 85.71%. 1 item flagged with 0 actions. Flagged checklist categories include WC and External wall. Structural Condition of RCC Members is rated 100%, with moderate cracks observed on RCC Column and Beam. The Condition of External wall is rated 100%, though moderate cracks, external plumbing pipe leakage, and algae/fungus/moss were observed.",
+    "missing_information": [
+        "Customer Name",
+        "Mobile",
+        "Email",
+        "Address",
+        "Property Age"
+    ]
+}

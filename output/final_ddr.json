@@ -1,0 +1,154 @@
+{
+    "property_issue_summary": "Floors: 11, Previous Structural audit done: No, Previous Repair work done: No, Inspection Date and Time: 27.09.2022 14:28 IST, Inspected By: Krushna & Mahesh, Property Type: Flat",
+    "area_wise_observations": [
+        {
+            "area": "Hall of Flat No. 103 and Common Bathroom of Flat No. 103",
+            "observation": "Observed dampness at the skirting level of Hall of Flat No. 103. Additionally, gaps were observed between the tile joints of Common Bathroom of Flat No. 103, potentially indicating tile hollowness.",
+            "thermal_finding": "No specific area correlation from provided thermal data; thermal images show general temperature readings (e.g., hotspots/coldspots) without linking to specific defects in this area. No direct thermal reading for this specific issue was available.",
+            "root_cause": "Plumbing issues, damaged Nahani trap/brickbat coba, or tile joint issues originating from the Common Bathroom of Flat No. 103.",
+            "severity": "Moderate",
+            "severity_reason": "Persistent dampness at skirting level indicates active water ingress, potentially compromising wall finishes and encouraging mold growth. Gaps in tile joints could allow water to penetrate the sub-floor, exacerbating the dampness and potentially damaging the floor structure or lower levels.",
+            "recommended_action": "Investigate and identify the exact source of water ingress from the Common Bathroom. Repair or replace faulty plumbing, Nahani trap, or brickbat coba. Rake out and re-grout all open tile joints in the Common Bathroom. Consider a waterproof membrane application if sub-floor integrity is compromised.",
+            "image_reference": [
+                "Photo 1",
+                "Photo 2",
+                "Photo 3",
+                "Photo 4",
+                "Photo 5",
+                "Photo 6",
+                "Photo 7",
+                "Photo 8",
+                "Photo 9",
+                "Photo 10",
+                "Photo 11"
+            ]
+        },
+        {
+            "area": "Common Bedroom of Flat No. 103 and Common Bathroom of Flat No. 103",
+            "observation": "Observed dampness at the skirting level of the Common Bedroom of Flat No. 103. Additionally, gaps were observed between the tile joints of Common Bathroom of Flat No. 103, potentially indicating tile hollowness.",
+            "thermal_finding": "No specific area correlation from provided thermal data; thermal images show general temperature readings (e.g., hotspots/coldspots) without linking to specific defects in this area. No direct thermal reading for this specific issue was available.",
+            "root_cause": "Plumbing issues, damaged Nahani trap/brickbat coba, or tile joint issues originating from the Common Bathroom of Flat No. 103.",
+            "severity": "Moderate",
+            "severity_reason": "Persistent dampness at skirting level indicates active water ingress, potentially compromising wall finishes and encouraging mold growth. Gaps in tile joints could allow water to penetrate the sub-floor, exacerbating the dampness and potentially damaging the floor structure or lower levels.",
+            "recommended_action": "Thoroughly inspect plumbing lines, Nahani trap, and brickbat coba in the Common Bathroom for leaks. Repair all identified plumbing issues and re-grout or replace damaged tiles in the Common Bathroom. Address the dampness in the Common Bedroom, which may require plaster repair and repainting after the source is fixed.",
+            "image_reference": [
+                "Photo 12",
+                "Photo 13",
+                "Photo 14",
+                "Photo 15",
+                "Photo 16",
+                "Photo 17",
+                "Photo 18",
+                "Photo 19"
+            ]
+        },
+        {
+            "area": "Master Bedroom of Flat No. 103 and Master Bedroom Bathroom of Flat No. 103",
+            "observation": "Observed dampness at the skirting level of Master Bedroom of Flat No. 103. Additionally, gaps were observed between the tile joints of Master Bedroom Bathroom of Flat No. 103, potentially indicating tile hollowness.",
+            "thermal_finding": "No specific area correlation from provided thermal data; thermal images show general temperature readings (e.g., hotspots/coldspots) without linking to specific defects in this area. No direct thermal reading for this specific issue was available.",
+            "root_cause": "Plumbing issues or tile joint issues originating from the Master Bedroom Bathroom of Flat No. 103.",
+            "severity": "Moderate",
+            "severity_reason": "Persistent dampness at skirting level indicates active water ingress, potentially compromising wall finishes and encouraging mold growth. Gaps in tile joints could allow water to penetrate the sub-floor, exacerbating the dampness and potentially damaging the floor structure or lower levels.",
+            "recommended_action": "Investigate plumbing lines and tile conditions in the Master Bedroom Bathroom. Repair any leaks, re-grout open tile joints, and address tile hollowness. Treat the damp wall in the Master Bedroom, ensuring it is fully dry before any aesthetic repairs.",
+            "image_reference": [
+                "Photo 20",
+                "Photo 21",
+                "Photo 22",
+                "Photo 23",
+                "Photo 24",
+                "Photo 25",
+                "Photo 26",
+                "Photo 27",
+                "Photo 28",
+                "Photo 29",
+                "Photo 30"
+            ]
+        },
+        {
+            "area": "Kitchen of Flat No. 103 and Master Bedroom Bathroom of Flat No. 103",
+            "observation": "Observed dampness at the skirting level of Kitchen of Flat No. 103. Additionally, gaps were observed between the tile joints of Master Bedroom Bathroom of Flat No. 103.",
+            "thermal_finding": "No specific area correlation from provided thermal data; thermal images show general temperature readings (e.g., hotspots/coldspots) without linking to specific defects in this area. No direct thermal reading for this specific issue was available.",
+            "root_cause": "Plumbing issues or tile joint issues originating from the Master Bedroom Bathroom of Flat No. 103, affecting the adjacent Kitchen.",
+            "severity": "Moderate",
+            "severity_reason": "Dampness in the kitchen, originating from an adjacent bathroom, poses a risk of affecting kitchen cabinetry and electrical outlets, in addition to common issues like mold and finish damage.",
+            "recommended_action": "Inspect and repair the plumbing system and tile joints in the Master Bedroom Bathroom that are adjacent to the Kitchen. Address the dampness in the Kitchen wall, which may require localized repairs and repainting once the source is rectified.",
+            "image_reference": [
+                "Photo 31",
+                "Photo 32",
+                "Photo 33",
+                "Photo 34",
+                "Photo 35",
+                "Photo 36",
+                "Photo 37"
+            ]
+        },
+        {
+            "area": "Master Bedroom wall of Flat No. 103 and External wall near Master Bedroom",
+            "observation": "Observed dampness & efflorescence on the wall surface of Master Bedroom of Flat No. 103. Cracks were also observed on the External wall of the building near the Master Bedroom, along with a duct issue.",
+            "thermal_finding": "No specific area correlation from provided thermal data; thermal images show general temperature readings (e.g., hotspots/coldspots) without linking to specific defects in this area. No direct thermal reading for this specific issue was available.",
+            "root_cause": "External wall cracks, duct leakage, or compromised external plumbing causing dampness.",
+            "severity": "Severe",
+            "severity_reason": "External wall cracks allow direct water penetration, leading to significant internal dampness and efflorescence, which can degrade structural elements over time and compromise the building envelope. Duct issues exacerbate the problem and can be challenging to locate and repair.",
+            "recommended_action": "Thorough structural assessment of the external wall and identified cracks. Repair all external wall cracks using appropriate crack injection or filling methods. Investigate and rectify the duct leakage issue. Treat the internal dampness and efflorescence in the Master Bedroom, possibly requiring re-plastering and repainting with a damp-resistant finish.",
+            "image_reference": [
+                "Photo 38",
+                "Photo 39",
+                "Photo 40",
+                "Photo 41",
+                "Photo 42",
+                "Photo 43",
+                "Photo 44",
+                "Photo 45",
+                "Photo 46",
+                "Photo 47",
+                "Photo 48"
+            ]
+        },
+        {
+            "area": "Parking ceiling below Flat No. 103, originating from Common Bathroom of Flat No. 103",
+            "observation": "Observed leakage at the Parking ceiling below Flat No. 103. This is associated with plumbing issues and gaps between the tile joints in the Common Bathroom of Flat No. 103.",
+            "thermal_finding": "No specific area correlation from provided thermal data; thermal images show general temperature readings (e.g., hotspots/coldspots) without linking to specific defects in this area. No direct thermal reading for this specific issue was available.",
+            "root_cause": "Plumbing leakage or tile joint issues from the Common Bathroom of Flat No. 103.",
+            "severity": "Severe",
+            "severity_reason": "Active leakage through a ceiling affects areas below, indicating a substantial water ingress problem that can lead to structural damage, safety hazards (e.g., slipping, electrical shorts if wiring is present), and significant repair costs. It directly impacts other property users.",
+            "recommended_action": "Conduct a thorough hydrostatic pressure test or dye test in the Common Bathroom of Flat No. 103 to pinpoint the exact source of leakage (plumbing or waterproofing). Undertake immediate repairs including re-doing waterproofing, replacing damaged plumbing lines, and re-grouting all tile joints. Repair and waterproof the affected parking ceiling area.",
+            "image_reference": [
+                "Photo 49",
+                "Photo 50",
+                "Photo 51",
+                "Photo 52",
+                "Photo 53",
+                "Photo 54",
+                "Photo 55",
+                "Photo 56",
+                "Photo 57"
+            ]
+        },
+        {
+            "area": "Common Bathroom Ceiling of Flat No. 103, affected by Flat No. 203",
+            "observation": "Observed mild dampness at the ceiling of Common Bathroom of Flat No. 103. This is related to open tile joints and outlet leakage in the Common & Master Bedroom Bathrooms of Flat No. 203 (the flat above).",
+            "thermal_finding": "No specific area correlation from provided thermal data; thermal images show general temperature readings (e.g., hotspots/coldspots) without linking to specific defects in this area. No direct thermal reading for this specific issue was available.",
+            "root_cause": "Leakage from open tile joints or outlet leakage in the Common & Master Bedroom Bathrooms of the flat above (Flat No. 203).",
+            "severity": "Moderate",
+            "severity_reason": "Dampness originating from an upper floor indicates an active leakage issue that can degrade ceiling finishes and promote mold growth. Although currently mild, if left unaddressed, it can worsen and cause more extensive damage, requiring coordination with another property owner for remediation.",
+            "recommended_action": "Coordinate with the owner/management of Flat No. 203 to inspect their Common and Master Bedroom Bathrooms for open tile joints and outlet leakages. Ensure all identified issues in Flat No. 203 are repaired (re-grouting, plumbing fixes). Once the source is rectified, repair the damp ceiling in Flat No. 103's Common Bathroom.",
+            "image_reference": [
+                "Photo 58",
+                "Photo 59",
+                "Photo 60",
+                "Photo 61",
+                "Photo 62",
+                "Photo 63",
+                "Photo 64"
+            ]
+        }
+    ],
+    "additional_notes": "Inspection Score: 85.71%. Flagged checklist categories include WC and External wall. Structural Condition of RCC Members is rated 100%, with moderate cracks observed on RCC Column and Beam. The Condition of External wall is rated 100%, though moderate cracks, external plumbing pipe leakage, and algae/fungus/moss were observed. The provided thermal data contained general temperature readings (hotspots and coldspots) across various points but lacked specific area identification or direct correlation to the physically observed defects, limiting its utility in pinpointing exact leakage sources for individual issues.",
+    "missing_information": [
+        "Customer Name",
+        "Mobile",
+        "Email",
+        "Address",
+        "Property Age"
+    ]
+}
