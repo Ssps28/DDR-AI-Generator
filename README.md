@@ -1,94 +1,79 @@
-#  DDR AI Generator
+# DDR AI Generator
 
-An AI-powered system that automatically generates a **Detailed Diagnostic Report (DDR)** by analyzing inspection and thermal inspection reports using **Google Gemini AI**.
-
-The application extracts observations from multiple PDF reports, combines the information intelligently, avoids duplicate findings, and generates a structured client-ready diagnostic report in Microsoft Word format.
+An AI-powered Detailed Diagnostic Report (DDR) Generator that automatically analyzes Inspection Reports and Thermal Reports using Google's Gemini API and generates a professional Word report.
 
 ---
 
-# Features
+## Features
 
-- Extracts text from Inspection Reports (PDF)
-- Extracts text from Thermal Reports (PDF)
-- Extracts relevant inspection images
-- Uses Google Gemini AI to understand and structure the reports
-- Merges inspection and thermal findings
-- Detects duplicate observations
-- Handles missing information gracefully
-- Generates a professional DDR report in DOCX format
-
----
-
-# Tech Stack
-
-- Python 3.11
-- Google Gemini 2.5 Flash API
-- PyMuPDF (fitz)
-- python-docx
-- python-dotenv
-- JSON
-- VS Code
+- Extracts text from Inspection PDF
+- Extracts text from Thermal PDF
+- Extracts inspection images
+- Uses Gemini AI to structure inspection data
+- Uses Gemini AI to structure thermal data
+- Merges both reports into a final DDR JSON
+- Generates a professional Microsoft Word (.docx) report
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```
-DDR AI Generator/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .env.example
-├── .gitignore
+DDR-AI-Generator/
 │
 ├── input/
 │   ├── inspection_report.pdf
 │   └── thermal_report.pdf
 │
+├── extracted_images/
+│
 ├── modules/
-│   ├── workflow.py
 │   ├── pdf_reader.py
 │   ├── image_extractor.py
 │   ├── llm.py
-│   ├── report_generator.py
-│   ├── document_parser.py
-│   └── utils.py
+│   ├── workflow.py
+│   └── report_generator.py
 │
 ├── prompts/
+│   ├── extraction_prompt.txt
+│   ├── merge_prompt.txt
+│   └── ddr_prompt.txt
 │
-├── templates/
+├── output/
+│   ├── inspection.json
+│   ├── thermal.json
+│   ├── final_ddr.json
+│   └── DDR_Report.docx
 │
-└── output/
-    ├── inspection.json
-    ├── thermal.json
-    ├── final_ddr.json
-    └── DDR_Report.docx
+├── app.py
+├── requirements.txt
+├── .env.example
+└── README.md
 ```
 
 ---
 
-# Installation
+## Installation
 
-Clone the repository.
+Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ssps28/DDR-AI-Generator.git
 ```
 
-Move into the project folder.
+Move into the project
 
 ```bash
 cd DDR-AI-Generator
 ```
 
-Create a virtual environment.
+Create a virtual environment
 
 ```bash
 python -m venv venv
 ```
 
-Activate it.
+Activate it
 
 Windows
 
@@ -96,98 +81,115 @@ Windows
 venv\Scripts\activate
 ```
 
-Install dependencies.
+Install dependencies
 
 ```bash
-python -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ---
 
-# Configure Environment Variables
+## Environment Variables
 
-Create a `.env` file.
-
-Add your Gemini API key.
+Create a file named `.env`
 
 ```env
-GEMINI_API_KEY=your_api_key_here
+GEMINI_API_KEY=YOUR_API_KEY
 ```
+
+You can obtain a Gemini API key from:
+
+https://aistudio.google.com/app/apikey
 
 ---
 
-# Run the Project
+## Run
+
+Place the two PDFs inside
+
+```
+input/
+```
+
+Run
 
 ```bash
 python app.py
 ```
 
-Generated outputs are stored inside the **output/** folder.
-
----
-
-# Workflow
+Generated files
 
 ```
-Inspection Report PDF
-            │
-            ▼
-      PDF Text Extraction
-            │
-            ▼
-      Inspection JSON
-            │
-            │
-Thermal Report PDF
-            │
-            ▼
-      Thermal JSON
-            │
-            ▼
-      Gemini AI Merge
-            │
-            ▼
-     Final DDR JSON
-            │
-            ▼
-     Microsoft Word Report
+output/
+│
+├── inspection.json
+├── thermal.json
+├── final_ddr.json
+└── DDR_Report.docx
 ```
 
 ---
 
-# Output
+## Technologies Used
 
-The application automatically generates
-
-- inspection.json
-- thermal.json
-- final_ddr.json
-- DDR_Report.docx
-
----
-
-# Current Limitations
-
-- Thermal observations are included only when supported by the source document.
-- Image placement is based on extracted inspection images and may not always achieve perfect semantic alignment.
-- The system intentionally avoids inventing or assuming missing information.
+- Python
+- PyMuPDF
+- Google Gemini API
+- python-docx
+- dotenv
 
 ---
 
-# Future Improvements
+## Workflow
 
-- Confidence scoring for extracted observations
-- Better semantic image mapping
-- Interactive web interface
-- Support for additional inspection report formats
-- Multi-property batch processing
+Inspection PDF
+        │
+        ▼
+Extract Text
+        │
+        ▼
+Extract Images
+        │
+        ▼
+Gemini AI
+        │
+        ▼
+Inspection JSON
+
+Thermal PDF
+        │
+        ▼
+Extract Text
+        │
+        ▼
+Gemini AI
+        │
+        ▼
+Thermal JSON
+
+Inspection JSON + Thermal JSON
+        │
+        ▼
+Gemini AI Merge
+        │
+        ▼
+Final DDR JSON
+        │
+        ▼
+Word Report (.docx)
 
 ---
 
-# Author
+## Current Limitations
+
+- Thermal image extraction is intentionally skipped to reduce processing time.
+- Image-to-observation mapping is currently sequential and not computer vision based.
+- Output quality depends on the structure of the uploaded reports.
+
+---
+
+## Author
 
 **Sujay S Pattar**
 
-Artificial Intelligence & Machine Learning Engineering Student
-
-Built as part of an AI Generalist / Applied AI Builder hiring assignment.
+Artificial Intelligence & Machine Learning Engineer
